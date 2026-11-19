@@ -1,0 +1,5 @@
+employee_id,full_name,department,role,annual_compensation_usd,hire_date
+EMP-101,Sarah Connor,Cybersecurity,Principal Architect,185000,2022-03-15
+EMP-102,Alex Murphy,Infrastructure,Staff DevOps Engineer,160000,2021-07-20
+EMP-103,Ellen Ripley,Operations,Director of Logistics,195000,2020-01-10
+EMP-104,Rick Deckard,Quality Assurance,Senior Test Engineer,145000,2023-11-01

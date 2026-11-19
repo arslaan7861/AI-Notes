@@ -1,0 +1,30 @@
+{
+  "_id": "673cf821b01a99f1",
+  "tenant_id": "tenant_enterprise_99",
+  "account_info": {
+    "company_name": "Apex Cloud Systems",
+    "tier": "Enterprise Gold",
+    "billing": {
+      "currency": "USD",
+      "arr": 240000,
+      "payment_status": "CURRENT",
+      "next_billing_date": "2027-04-01"
+    }
+  },
+  "authorized_personnel": [
+    {
+      "name": "Dr. Grace Augustine",
+      "role": "Head of Research",
+      "security_clearance": 5
+    },
+    {
+      "name": "Jake Sully",
+      "role": "Field Operations Lead",
+      "security_clearance": 4
+    }
+  ],
+  "system_metadata": {
+    "internal_ip": "10.240.12.8",
+    "session_token": "secret_session_token_xyz987"
+  }
+}
